@@ -1,5 +1,5 @@
 #Developed by Abey Joy
-#The following are a set of functions that solve many common issues that restaurant patrons encounter.
+#The following are a set of functions that solve many common issues that restaurant diners encounter.
 #In no way am I to be held responsible for any damages caused by usage of these functions,
 
 import random
